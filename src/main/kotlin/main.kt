@@ -1,5 +1,5 @@
 fun main() {
-    /*calcularCubo()
+    calcularCubo()
     comvertirKmAMetros()
     detectarSigno()
     calcularMenorNumero()
@@ -13,7 +13,7 @@ fun main() {
     determinarSiEsParONo()
     tiempoEnMin()
     valorAbsolutoDeNumeroEntero()
-    divisibilidad()*/
+    divisibilidad()
     cualEsElMenor()
 }
 
@@ -285,6 +285,3 @@ fun cualEsElMenor() {
     else println("El menor es: $numero3")
 
 }
-
-
-
